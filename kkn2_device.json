@@ -1,0 +1,256 @@
+[{
+    "_id": {
+      "$oid": "5e257cbd0b46dd19740d5920"
+    },
+    "device_ID": "KKN120191078"
+  },{
+    "_id": {
+      "$oid": "5e257d430b46dd19740d5922"
+    },
+    "device_ID": "KKN120191189"
+  },{
+    "_id": {
+      "$oid": "5e257d5c0b46dd19740d5923"
+    },
+    "device_ID": "KKN120190290"
+  },{
+    "_id": {
+      "$oid": "5e257d6f0b46dd19740d5924"
+    },
+    "device_ID": "KKN120190812"
+  },{
+    "_id": {
+      "$oid": "5e257d7b0b46dd19740d5925"
+    },
+    "device_ID": "KKN120190112"
+  },{
+    "_id": {
+      "$oid": "5e257d920b46dd19740d5926"
+    },
+    "device_ID": "KKN120190365"
+  },{
+    "_id": {
+      "$oid": "5e257d9e0b46dd19740d5927"
+    },
+    "device_ID": "KKN120190623"
+  },{
+    "_id": {
+      "$oid": "5e257daa0b46dd19740d5928"
+    },
+    "device_ID": "KKN120190189"
+  },{
+    "_id": {
+      "$oid": "5e257db80b46dd19740d5929"
+    },
+    "device_ID": "KKN120190901"
+  },{
+    "_id": {
+      "$oid": "5e257dc40b46dd19740d592a"
+    },
+    "device_ID": "KKN120190134"
+  },{
+    "_id": {
+      "$oid": "5e257dd00b46dd19740d592b"
+    },
+    "device_ID": "KKN120191001"
+  },{
+    "_id": {
+      "$oid": "5e257dde0b46dd19740d592c"
+    },
+    "device_ID": "KKN120190067"
+  },{
+    "_id": {
+      "$oid": "5e257de90b46dd19740d592d"
+    },
+    "device_ID": "KKN120191334"
+  },{
+    "_id": {
+      "$oid": "5e257df80b46dd19740d592e"
+    },
+    "device_ID": "KKN120191012"
+  },{
+    "_id": {
+      "$oid": "5e44c20658a74f4e004f1c5b"
+    },
+    "device_ID": "KKN120190367"
+  },{
+    "_id": {
+      "$oid": "5e44c87458a74f4e004f1c5f"
+    },
+    "device_ID": "KKN120191112"
+  },{
+    "_id": {
+      "$oid": "5e55879777ba364c70a299c5"
+    },
+    "device_ID": "KKN120190945"
+  },{
+    "_id": {
+      "$oid": "5e5587cf77ba364c70a299c6"
+    },
+    "device_ID": "KKN120190612"
+  },{
+    "_id": {
+      "$oid": "5e5587e477ba364c70a299c7"
+    },
+    "device_ID": "KKN120190234"
+  },{
+    "_id": {
+      "$oid": "5e5587f777ba364c70a299c8"
+    },
+    "device_ID": "KKN120190578"
+  },{
+    "_id": {
+      "$oid": "5e55880977ba364c70a299c9"
+    },
+    "device_ID": "KKN120190545"
+  },{
+    "_id": {
+      "$oid": "5e55881d77ba364c70a299ca"
+    },
+    "device_ID": "KKN120190012"
+  },{
+    "_id": {
+      "$oid": "5e55882677ba364c70a299cb"
+    },
+    "device_ID": "KKN120190456"
+  },{
+    "_id": {
+      "$oid": "5e55883f77ba364c70a299cc"
+    },
+    "device_ID": "KKN120190934"
+  },{
+    "_id": {
+      "$oid": "5e55884f77ba364c70a299cd"
+    },
+    "device_ID": "KKN120190856"
+  },{
+    "_id": {
+      "$oid": "5e55885a77ba364c70a299ce"
+    },
+    "device_ID": "KKN120190701"
+  },{
+    "_id": {
+      "$oid": "5e55887077ba364c70a299cf"
+    },
+    "device_ID": "KKN120190978"
+  },{
+    "_id": {
+      "$oid": "5e55887e77ba364c70a299d0"
+    },
+    "device_ID": "KKN120190489"
+  },{
+    "_id": {
+      "$oid": "5e55888d77ba364c70a299d1"
+    },
+    "device_ID": "KKN120190890"
+  },{
+    "_id": {
+      "$oid": "5e55889a77ba364c70a299d2"
+    },
+    "device_ID": "KKN120190678"
+  },{
+    "_id": {
+      "$oid": "5e5588a977ba364c70a299d3"
+    },
+    "device_ID": "KKN120190878"
+  },{
+    "_id": {
+      "$oid": "5e7031881a3d3445c80ec3f6"
+    },
+    "device_ID": "KKN120190390"
+  },{
+    "_id": {
+      "$oid": "5e70319b1a3d3445c80ec3f7"
+    },
+    "device_ID": "KKN120190789"
+  },{
+    "_id": {
+      "$oid": "5e7031ab1a3d3445c80ec3f8"
+    },
+    "device_ID": "KKN120190367"
+  },{
+    "_id": {
+      "$oid": "5e7031bd1a3d3445c80ec3f9"
+    },
+    "device_ID": "KKN120191023"
+  },{
+    "_id": {
+      "$oid": "5e7031d41a3d3445c80ec3fa"
+    },
+    "device_ID": "KKN120191023"
+  },{
+    "_id": {
+      "$oid": "5e7031e71a3d3445c80ec3fb"
+    },
+    "device_ID": "KKN120190778"
+  },{
+    "_id": {
+      "$oid": "5e70320c1a3d3445c80ec3fc"
+    },
+    "device_ID": "KKN120190990"
+  },{
+    "_id": {
+      "$oid": "5e70321e1a3d3445c80ec3fd"
+    },
+    "device_ID": "KKN120190034"
+  },{
+    "_id": {
+      "$oid": "5e7032391a3d3445c80ec3fe"
+    },
+    "device_ID": "KKN120190845"
+  },{
+    "_id": {
+      "$oid": "5e7032501a3d3445c80ec3ff"
+    },
+    "device_ID": "KKN120190912"
+  },{
+    "_id": {
+      "$oid": "5e70325e1a3d3445c80ec400"
+    },
+    "device_ID": "KKN120190590"
+  },{
+    "_id": {
+      "$oid": "5e70326e1a3d3445c80ec401"
+    },
+    "device_ID": "KKN120190178"
+  },{
+    "_id": {
+      "$oid": "5e70339c1a3d3445c80ec402"
+    },
+    "device_ID": "KKN120190490"
+  },{
+    "_id": {
+      "$oid": "5e7033b21a3d3445c80ec403"
+    },
+    "device_ID": "KKN120190101"
+  },{
+    "_id": {
+      "$oid": "5e7033c21a3d3445c80ec404"
+    },
+    "device_ID": "KKN120190256"
+  },{
+    "_id": {
+      "$oid": "5e7033ce1a3d3445c80ec405"
+    },
+    "device_ID": "KKN120190190"
+  },{
+    "_id": {
+      "$oid": "5e7033e11a3d3445c80ec406"
+    },
+    "device_ID": "KKN120191067"
+  },{
+    "_id": {
+      "$oid": "5e7033fb1a3d3445c80ec407"
+    },
+    "device_ID": "KKN120190167"
+  },{
+    "_id": {
+      "$oid": "5e7034081a3d3445c80ec408"
+    },
+    "device_ID": "KKN120190712"
+  },{
+    "_id": {
+      "$oid": "5e7034161a3d3445c80ec409"
+    },
+    "device_ID": "KKN120190823"
+  }]
